@@ -1,6 +1,6 @@
 # Informed-Search-Pancake-Sorting
 
-Implementations of a A* search algorithm and a Uniform Cost Search (UCS) algorithm to solve the Pancake Sorting Problem -- that is, order a disordered stack of different sized pancakes by flipping all pancakes above a certain depth.
+Implementations of a A* search algorithm and a Uninformed Cost Search (UCS) algorithm to solve the Pancake Sorting Problem -- that is, order a disordered stack of different sized pancakes by flipping all pancakes above a certain depth.
 
 ## Title
 
