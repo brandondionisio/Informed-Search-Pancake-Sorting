@@ -1,6 +1,6 @@
 # Informed-Search-Pancake-Sorting
 
-A* search algorithm and a UCS algorithm to solve the Pancake Sorting Problem. That is, order a disordered stack of different sized pancakes by flipping all pancakes above a certain depth.
+Implementations of a A* search algorithm and a Uniform Cost Search (UCS) algorithm to solve the Pancake Sorting Problem -- that is, order a disordered stack of different sized pancakes by flipping all pancakes above a certain depth.
 
 ## Title
 
@@ -47,7 +47,9 @@ Typing 'r' will initialize the pancake stack as a randomly sorted 10-length panc
 ## Assumptions
 
 Keeps requesting input until user provides valid input  
-Plate is on the right of the stack array
+Plate is on the right of the stack array  
+A* Search utilizes the total of the forward and backward cost functions
+UCS utilizes the backward cost only
 
 ## Forward Cost Function (Heuristic Function)
 
